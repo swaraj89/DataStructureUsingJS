@@ -1,2 +1,2 @@
-# DataStructureUsingJS
-DataStructureUsingJS
+# Data Structure 
+Data structures implemented in JS
