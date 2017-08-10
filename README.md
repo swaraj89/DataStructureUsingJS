@@ -53,7 +53,7 @@ stack.pop(); //3
 
 | DS 	|  IMPLEMENTED	|  TEST CASES 	|
 |--:	|--:	|---	|
-| STACK 	| - [x] 	| - [ x ] 	|
+| STACK 	| [x] | [x] 	|
 
 ## Built With
     * [ES6](https://www.wikiwand.com/en/JavaScript)
