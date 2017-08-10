@@ -2,7 +2,7 @@
 
 Data structures implemented in JS.
 
-Demo URL : goes here
+Demo URL : https://dsjs.herokuapp.com/
 ## Getting Started
 
 ### Installation and running
@@ -52,7 +52,7 @@ stack.pop(); //3
 
 
 | DS 	|  IMPLEMENTED	|  TEST CASES 	|
-|--:	|--:	|---	|
+|--:	|--:	|---:	|
 | STACK 	| [x] | [x] 	|
 
 ## Built With
