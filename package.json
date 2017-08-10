@@ -2,7 +2,7 @@
     "name": "dsjs",
     "version": "1.0.0",
     "description": "DS using JS",
-    "main": "./dist/index.html",
+    "main": "index.html",
     "scripts": {
         "build": "gulp build",
         "start": "npm run build",
