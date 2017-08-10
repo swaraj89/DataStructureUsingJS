@@ -40,7 +40,7 @@ gulp.task('build', ['clean', 'build:test', 'build:move-index', 'webserver'], fun
 });
 
 gulp.task('webserver', function() {
-    return gulp.src('./')
+    return gulp.src('./dist')
         .pipe(webserver({
             livereload: true,
             open: true,
@@ -54,7 +54,7 @@ gulp.task('build:test', function() {
             compilers: 'js:babel-core/register',
             reporter: 'mochawesome',
             reporterOptions: {
-                reportDir: './',
+                reportDir: './dist',
                 reportFilename: 'test-results',
                 enableCharts: true
             }
@@ -64,5 +64,5 @@ gulp.task('build:test', function() {
 
 gulp.task('build:move-index', function() {
     return gulp.src('./src/index.html')
-        .pipe(gulp.dest('./'));
+        .pipe(gulp.dest('./dist'));
 });
