@@ -5,7 +5,8 @@
     "main": "./dist/index.html",
     "scripts": {
         "build": "gulp build",
-        "start": "gulp"
+        "start": "npm run build",
+        "dev": "gulp"
     },
     "author": "Swaraj Panigrahi",
     "devDependencies": {
