@@ -7,7 +7,6 @@
         "build": "gulp build",
         "start": "npm run build",
         "dev": "gulp",
-        "postinstall": "gulp default"
     },
     "author": "Swaraj Panigrahi",
     "devDependencies": {
