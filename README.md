@@ -53,7 +53,8 @@ stack.pop(); //3
 
 | DS 	|  IMPLEMENTED	|  TEST CASES 	|
 |--:	|--:	|---:	|
-| STACK 	| [x] | [x] 	|
+| [STACK](./src/Stack/index.js) 	| [x] | [x] 	|
+| [QUEUE](./src/Queue/index.js) 	|  |  	|
 
 ## Built With
 
@@ -63,7 +64,7 @@ stack.pop(); //3
 
 ## Author
 
-* **Swaraj Panigrahi** - [GitHub](https://github.com/swaraj89) [Linkedin](https://www.linkedin.com/in/panigrahiswaraj/)
+* **Swaraj Panigrahi** - | [GitHub](https://github.com/swaraj89) |  [Linkedin](https://www.linkedin.com/in/panigrahiswaraj/) |
 
 ## License
 
