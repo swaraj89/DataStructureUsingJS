@@ -56,9 +56,10 @@ stack.pop(); //3
 | STACK 	| [x] | [x] 	|
 
 ## Built With
-    * [ES6](https://www.wikiwand.com/en/JavaScript)
-    * [Chai](http://chaijs.com)
-    * [npm](https://www.npmjs.com/)
+
+* [ES6](http://es6-features.org)
+* [ChaiJS](http://chaijs.com/)
+* [Gulp](http://gulpjs.org/)
 
 ## Author
 
