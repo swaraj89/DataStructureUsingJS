@@ -62,7 +62,7 @@ stack.pop(); //3
 
 ## Author
 
-* **Swaraj Panigrahi** - [GitHub](https://github.com/swaraj89)
+* **Swaraj Panigrahi** - [GitHub](https://github.com/swaraj89) [Linkedin](https://www.linkedin.com/in/panigrahiswaraj/)
 
 ## License
 
